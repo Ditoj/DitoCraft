@@ -1,0 +1,6 @@
+world.exe
+build/
+debug.bat
+build.bat
+glIntercept/
+.vscode/
